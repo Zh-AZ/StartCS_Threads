@@ -1,0 +1,15 @@
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\bin\Debug\net6.0\StartCS_Threads.exe
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\bin\Debug\net6.0\StartCS_Threads.deps.json
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\bin\Debug\net6.0\StartCS_Threads.runtimeconfig.json
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\bin\Debug\net6.0\StartCS_Threads.dll
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\bin\Debug\net6.0\StartCS_Threads.pdb
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\obj\Debug\net6.0\StartCS_Threads.csproj.AssemblyReference.cache
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\obj\Debug\net6.0\StartCS_Threads.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\obj\Debug\net6.0\StartCS_Threads.AssemblyInfoInputs.cache
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\obj\Debug\net6.0\StartCS_Threads.AssemblyInfo.cs
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\obj\Debug\net6.0\StartCS_Threads.csproj.CoreCompileInputs.cache
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\obj\Debug\net6.0\StartCS_Threads.dll
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\obj\Debug\net6.0\refint\StartCS_Threads.dll
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\obj\Debug\net6.0\StartCS_Threads.pdb
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\obj\Debug\net6.0\StartCS_Threads.genruntimeconfig.cache
+D:\GitHub\StartCS_Threads\StartCS_Threads\StartCS_Threads\obj\Debug\net6.0\ref\StartCS_Threads.dll
