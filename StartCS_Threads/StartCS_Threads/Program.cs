@@ -3,7 +3,9 @@ using System.Threading;
 
 
 internal class Program
-{   
+{
+    static bool stopThread = false;
+
     private static async Task Main(string[] args)
     {
         void AsyncThread()
@@ -19,8 +21,14 @@ internal class Program
         void SecondThread(object? name)
         {
             Console.WriteLine($"{name} начал работу");
+            
             while (true)
             {
+                if (stopThread == true)
+                {
+                    Console.WriteLine($"{name} завершен");
+                    break;
+                }
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine($"* | {name}\n");
                 Thread.Sleep(600);
@@ -33,7 +41,7 @@ internal class Program
             secondThread.Name = "Второй поток";
             secondThread.Start(secondThread.Name);
             secondThread.IsBackground = true;
-
+            
             await Task.Run(() => AsyncThread());
 
             var mainThread = Thread.CurrentThread;
@@ -47,7 +55,7 @@ internal class Program
             }
 
             Console.WriteLine($"{mainThread.Name} завершен");
-            Console.WriteLine($"{secondThread.Name} завершен");
+            stopThread = true;
 
             Console.ReadKey();
         }
